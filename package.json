@@ -1,0 +1,23 @@
+{
+  "name": "fly-guy-p5-js-hosted",
+  "version": "1.0.0",
+  "description": "A wrapper for hosting the app",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theGrassWasGreenerBefore/fly-guy-p5-js-hosted.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theGrassWasGreenerBefore/fly-guy-p5-js-hosted/issues"
+  },
+  "homepage": "https://github.com/theGrassWasGreenerBefore/fly-guy-p5-js-hosted#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
