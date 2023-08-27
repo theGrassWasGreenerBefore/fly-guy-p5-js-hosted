@@ -1,3 +1,4 @@
-import { consoleFunction } from 'fly-guy-p5';
+import './style.css';
+import { drawP5 } from 'fly-guy-p5';
 
-consoleFunction();
+drawP5();
