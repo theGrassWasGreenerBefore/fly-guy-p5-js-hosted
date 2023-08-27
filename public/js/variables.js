@@ -1,1 +1,0 @@
-export let basicValue = "This is Fly Guy prototype app";
